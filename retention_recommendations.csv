@@ -1,0 +1,15 @@
+Segment Type,Customer Segment,Customers,Observed Churn Rate (%),Above Overall Churn Rate,Suggested Action
+TenureGroup,0-12 months,2186,47.44,True,"Provide onboarding support, proactive follow-ups, and early-customer loyalty benefits."
+PaymentMethod,Electronic check,2365,45.29,True,Investigate payment friction and offer convenient payment options where appropriate.
+Contract,Month-to-month,3875,42.71,True,"Offer suitable longer-term plans, transparent pricing, and renewal incentives."
+InternetService,Fiber optic,3096,41.89,True,"Review service quality, connection issues, and suitable internet plans for the customer."
+TenureGroup,13-24 months,1024,28.71,True,"Provide onboarding support, proactive follow-ups, and early-customer loyalty benefits."
+TenureGroup,25-48 months,1594,20.39,False,"Provide onboarding support, proactive follow-ups, and early-customer loyalty benefits."
+PaymentMethod,Mailed check,1612,19.11,False,Investigate payment friction and offer convenient payment options where appropriate.
+InternetService,DSL,2421,18.96,False,"Review service quality, connection issues, and suitable internet plans for the customer."
+PaymentMethod,Bank transfer (automatic),1544,16.71,False,Investigate payment friction and offer convenient payment options where appropriate.
+PaymentMethod,Credit card (automatic),1522,15.24,False,Investigate payment friction and offer convenient payment options where appropriate.
+Contract,One year,1473,11.27,False,"Offer suitable longer-term plans, transparent pricing, and renewal incentives."
+TenureGroup,49-72 months,2239,9.51,False,"Provide onboarding support, proactive follow-ups, and early-customer loyalty benefits."
+InternetService,No,1526,7.4,False,"Review service quality, connection issues, and suitable internet plans for the customer."
+Contract,Two year,1695,2.83,False,"Offer suitable longer-term plans, transparent pricing, and renewal incentives."

@@ -1,0 +1,50 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.13158227739227457
+num__tenure,0.10782003464084321
+num__TotalCharges,0.0882750365900311
+num__MonthlyCharges,0.07570752113889814
+cat__OnlineSecurity_No,0.06118602776995154
+cat__InternetService_Fiber optic,0.05109475196574686
+cat__Contract_Two year,0.04662190160598647
+cat__TechSupport_No,0.04548172951162569
+cat__TenureGroup_0-12 months,0.03837361270211283
+cat__PaymentMethod_Electronic check,0.03660678951492571
+cat__TenureGroup_49-72 months,0.022985539589565795
+cat__InternetService_DSL,0.017633748033359285
+cat__OnlineBackup_No,0.017429558464682447
+cat__Contract_One year,0.015733663845901125
+cat__PaperlessBilling_Yes,0.011493066762334915
+cat__PaperlessBilling_No,0.010256227472106616
+cat__OnlineSecurity_Yes,0.009779304740161447
+cat__TechSupport_Yes,0.009596833555752115
+cat__gender_Male,0.009506934932081487
+cat__gender_Female,0.009337176385079988
+cat__DeviceProtection_No internet service,0.008628128542194283
+cat__StreamingTV_No internet service,0.0083453306011257
+cat__TechSupport_No internet service,0.008256890714597837
+cat__OnlineBackup_Yes,0.00790196211529126
+cat__DeviceProtection_No,0.007711581900299095
+cat__StreamingMovies_Yes,0.0076666159938682124
+cat__MultipleLines_No,0.0074001960125830565
+cat__StreamingMovies_No,0.007342331362054482
+cat__StreamingTV_Yes,0.00726280899059781
+cat__Partner_Yes,0.00722635208033825
+cat__Partner_No,0.007135147401030676
+cat__InternetService_No,0.00709579912863951
+cat__MultipleLines_Yes,0.006971620680328071
+cat__StreamingTV_No,0.006900311563530881
+cat__TenureGroup_25-48 months,0.006892441459212041
+cat__Dependents_Yes,0.006777970666962166
+cat__PaymentMethod_Credit card (automatic),0.006596856517990999
+cat__PaymentMethod_Bank transfer (automatic),0.006330072948473951
+cat__Dependents_No,0.006278498396092001
+num__SeniorCitizen,0.00619402043025851
+cat__OnlineSecurity_No internet service,0.005953988499904455
+cat__PaymentMethod_Mailed check,0.005828282466607065
+cat__DeviceProtection_Yes,0.00574047379638512
+cat__TenureGroup_13-24 months,0.004712145627156107
+cat__StreamingMovies_No internet service,0.0046667322973288775
+cat__OnlineBackup_No internet service,0.004110615950970783
+cat__PhoneService_No,0.0029377821545005663
+cat__MultipleLines_No phone service,0.0023664682397310276
+cat__PhoneService_Yes,0.002266836848525773
